@@ -1,8 +1,7 @@
 # AvaliacaoIMC
 - Este projeto em Flutter é uma calculadora de IMC (Índice de Massa Corporal), permitindo que os usuários calculem e visualizem seu IMC com base na altura e peso fornecidos.
 
-|![Print0](./assets/print00.png)
-|:-:|:-:|:-:|
+|![Print0](./assets/imc.png)
 
 # Tecnologias
 - Flutter
